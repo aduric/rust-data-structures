@@ -6,3 +6,4 @@ mod vector;
 mod heap;
 mod tree;
 mod sorting;
+mod graph;
